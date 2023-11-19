@@ -1,3 +1,20 @@
+
+
+FlashbackFiesta - Time Unveiled is a React application developed by Ajay Naik. This engaging application allows users to explore historical events, births, and deaths that occurred on a specific day of the month. Users can choose a month, date, and event type, and the app retrieves information from the Wikipedia API to provide a curated list of notable occurrences.
+
+Key Features:
+
+Select a specific month, date, and event type (events, births, deaths).
+Utilizes the Wikipedia API to fetch relevant historical data.
+Provides a comprehensive view of significant events that happened on the selected day.
+Connect with Ajay Naik:
+
+LinkedIn Profile: Ajay Naik on LinkedIn
+Explore the Past:
+
+Wikipedia API: Wikipedia API
+FlashbackFiesta - Time Unveiled offers a fascinating journey through time, allowing users to uncover and reflect upon the rich tapestry of historical events. Enjoy the exploration of the past!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
