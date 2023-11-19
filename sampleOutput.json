@@ -1,0 +1,149 @@
+https://byabbe.se/on-this-day/12/22/events.json
+
+
+{
+  "wikipedia": "https://wikipedia.org/wiki/December_22",
+  "date": "December 22",
+  "events": [
+    {
+      "year": "AD 69",
+      "description": "Emperor Vitellius is captured and murdered at the Gemonian stairs in Rome.",
+      "wikipedia": [
+        {
+          "title": "Vitellius",
+          "wikipedia": "https://wikipedia.org/wiki/Vitellius"
+        },
+        {
+          "title": "Gemonian stairs",
+          "wikipedia": "https://wikipedia.org/wiki/Gemonian_stairs"
+        },
+        {
+          "title": "Ancient Rome",
+          "wikipedia": "https://wikipedia.org/wiki/Ancient_Rome"
+        }
+      ]
+    },
+    {
+      "year": "401",
+      "description": "Pope Innocent I is elected.",
+      "wikipedia": [
+        {
+          "title": "Pope Innocent I",
+          "wikipedia": "https://wikipedia.org/wiki/Pope_Innocent_I"
+        }
+      ]
+    },
+    {
+      "year": "609",
+      "description": "Muhammad claims to receive his first revelation.",
+      "wikipedia": [
+        {
+          "title": "Muhammad",
+          "wikipedia": "https://wikipedia.org/wiki/Muhammad"
+        },
+        {
+          "title": "Wahy",
+          "wikipedia": "https://wikipedia.org/wiki/Wahy"
+        }
+      ]
+    },
+    {
+      "year": "856",
+      "description": "Damghan earthquake: An earthquake near the Persian city of Damghan kills an estimated 200,000 people, the sixth deadliest earthquake in recorded history.",
+      "wikipedia": [
+        {
+          "title": "856 Damghan earthquake",
+          "wikipedia": "https://wikipedia.org/wiki/856_Damghan_earthquake"
+        },
+        {
+          "title": "Damghan",
+          "wikipedia": "https://wikipedia.org/wiki/Damghan"
+        }
+      ]
+    },
+    {
+      "year": "880",
+      "description": "Luoyang, eastern capital of the Tang dynasty, is captured by rebel leader Huang Chao during the reign of Emperor Xizong.",
+      "wikipedia": [
+        {
+          "title": "Luoyang",
+          "wikipedia": "https://wikipedia.org/wiki/Luoyang"
+        },
+        {
+          "title": "Tang dynasty",
+          "wikipedia": "https://wikipedia.org/wiki/Tang_dynasty"
+        },
+        {
+          "title": "Huang Chao",
+          "wikipedia": "https://wikipedia.org/wiki/Huang_Chao"
+        },
+        {
+          "title": "Emperor Xizong of Tang",
+          "wikipedia": "https://wikipedia.org/wiki/Emperor_Xizong_of_Tang"
+        }
+      ]
+    },
+    {
+      "year": "1135",
+      "description": "Stephen of Blois becomes King of England",
+      "wikipedia": [
+        {
+          "title": "Stephen, King of England",
+          "wikipedia": "https://wikipedia.org/wiki/Stephen,_King_of_England"
+        }
+      ]
+    },
+    {
+      "year": "1216",
+      "description": "Pope Honorius III approves the Dominican Order through the papal bull of confirmation Religiosam vitam.",
+      "wikipedia": [
+        {
+          "title": "Pope Honorius III",
+          "wikipedia": "https://wikipedia.org/wiki/Pope_Honorius_III"
+        },
+        {
+          "title": "Dominican Order",
+          "wikipedia": "https://wikipedia.org/wiki/Dominican_Order"
+        },
+        {
+          "title": "Religiosam vitam",
+          "wikipedia": "https://wikipedia.org/wiki/Religiosam_vitam"
+        }
+      ]
+    },
+    {
+      "year": "1622",
+      "description": "Bucaramanga, Colombia is founded.",
+      "wikipedia": [
+        {
+          "title": "Bucaramanga",
+          "wikipedia": "https://wikipedia.org/wiki/Bucaramanga"
+        }
+      ]
+    },
+    {
+      "year": "1769",
+      "description": "Sino-Burmese War: The war ends with an uneasy truce.",
+      "wikipedia": [
+        {
+          "title": "Sino-Burmese War (1765-69)",
+          "wikipedia": "https://wikipedia.org/wiki/Sino-Burmese_War_(1765%E2%80%9369)"
+        }
+      ]
+    },
+    {
+      "year": "1788",
+      "description": "Nguyễn Huệ proclaims himself Emperor Quang Trung, in effect abolishing on his own the Lê dynasty.",
+      "wikipedia": [
+        {
+          "title": "Nguyễn Huệ",
+          "wikipedia": "https://wikipedia.org/wiki/Nguy%E1%BB%85n_Hu%E1%BB%87"
+        },
+        {
+          "title": "Lê dynasty",
+          "wikipedia": "https://wikipedia.org/wiki/L%C3%AA_dynasty"
+        }
+      ]
+    },
+  ]
+}
